@@ -6,5 +6,8 @@ def countToN(n):
         print(i)
     print("Merge Conflict")
 
+def rebaseTest():
+    pass 
+
 if __name__ == "__main__":
     countToN(4)
