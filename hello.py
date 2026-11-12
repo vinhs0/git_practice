@@ -7,4 +7,4 @@ def countToN(n):
     print("Merge Conflict")
 
 if __name__ == "__main__":
-    printHello()
+    countToN(4)
