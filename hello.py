@@ -6,7 +6,6 @@ def countToN(n):
         print(i)
     print("Merge Conflict")
 
-<<<<<<< HEAD
 def rebaseTest():
     print("Step 2")
     def fib(n):
@@ -26,10 +25,6 @@ def rebaseTest():
                     f2=f
             return f
     print(fib(5))
-=======
-def fib(n):
-    pass
->>>>>>> aa20727 (fib())
 
 if __name__ == "__main__":
     countToN(4)
