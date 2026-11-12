@@ -3,8 +3,8 @@ def printHello():
 
 def countToN(n):
     for i in range(n):
-        print(i)
+        print(i+10)
     print("Done!!")
 
 if __name__ == "__main__":
-    printHello()
+    countToN(4)
