@@ -4,7 +4,7 @@ def printHello():
 def countToN(n):
     for i in range(n):
         print(i)
-    print("Done!!")
+    print("Merge Conflict")
 
 if __name__ == "__main__":
     printHello()
