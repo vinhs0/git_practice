@@ -24,6 +24,7 @@ def rebaseTest():
                 else:
                     f2=f
             return f
+    print(fib(5))
 
 if __name__ == "__main__":
     countToN(4)
