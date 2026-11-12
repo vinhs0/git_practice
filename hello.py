@@ -1,5 +1,5 @@
 def printHello():
-    print("Hello")
+    print("Yel")
 
 def countToN(n):
     for i in range(n):
