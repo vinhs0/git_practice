@@ -20,5 +20,8 @@ def fibonacci(n):
         dp[i] = dp[i - 1] + dp[i - 2]
     return dp[n]
 
+def mean_of_five(a, b, c, d, e):
+    return (a + b + c + d + e) / 5
+
 if __name__ == "__main__":
     countToN(4)
